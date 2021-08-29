@@ -22,9 +22,9 @@ I am wael, a frontend developer
 </p>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=waelmando0&show_icons=true" alt="waelmando" />
-
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=waelmando0&show_icons=true" alt="waelmando" />
+  
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
 </p>
 
 
