@@ -23,7 +23,7 @@ I am wael, a frontend developer
 
 <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=waelmando0&show_icons=true" alt="waelmando" />
-    <br/>
+
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
 </p>
 
