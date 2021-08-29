@@ -15,7 +15,7 @@ I am wael, a frontend developer
 
 ### Stats
 
-<p align="left">
+<p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=waelmando0.waelmando0" />
     
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwaelmando0" />
@@ -23,7 +23,7 @@ I am wael, a frontend developer
 
 <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=waelmando0&show_icons=true" alt="waelmando" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
 </p>
 
 
