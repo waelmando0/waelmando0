@@ -15,9 +15,8 @@
 </p>
 
 <a href="https://github.com/waelmando0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waelmando0&show_icons=true" alt="waelmando" />
-  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waelmando0&theme=buefy&show_icons=true" alt="waelmando" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&theme=buefy&layout=compact" alt="waelmando" />
 </a>
 
 if you want to say <b>hi, I'll be happy to meet you more!</b> 
