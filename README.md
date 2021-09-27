@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelmando0&layout=compact" alt="waelmando" />
 </a>
 
-if you want to say <b>hi, I'll be happy to meet you!</b> 
+<b>hi, I'll be happy to meet you there!</b> 
    <a href="https://twitter.com/waelmando0" target="_blank">
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
