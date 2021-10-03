@@ -29,9 +29,7 @@
 <details>
     <summary>My GitHub stats</summary>
 	
-<p align="left">
-<img src="https://visitor-badge.glitch.me/badge?page_id=waelmando0.waelmando0" />
-    
+<p align="left">    
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwaelmando0" />
 </p>
     <p align="center">
